@@ -1,0 +1,19 @@
+{
+  "moduleName": "mypod",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240516151843329"
+    },
+    {
+      "module": "serverpod_auth",
+      "version": "20240520102713718"
+    },
+    {
+      "module": "mypod",
+      "version": "20240905000902539"
+    }
+  ],
+  "migrationApiVersion": 1
+}
